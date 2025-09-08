@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-Notebook-orange?logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Problem Statement
 A retail company **ABC Pvt. Ltd.** wants to analyze customer purchase behaviour (purchase amount) across products and demographics. The dataset includes customer demographics, product details, and purchase amounts.  
